@@ -4,7 +4,7 @@ metadata:
   name: backstage
   description: backstage.io
   annotations:
-    github.com/project-slug: 'hpatil47/sample-backstage-project'
+    github.com/project-slug: 'HarshDemoOrg2023/sample-service'
 spec:
   type: sample-app
   lifecycle: development
