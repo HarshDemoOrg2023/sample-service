@@ -5,6 +5,7 @@ metadata:
   description: backstage.io
   annotations:
     github.com/project-slug: 'HarshDemoOrg2023/sample-service'
+    backstage.io/techdocs-ref: value
 spec:
   type: sample-app
   lifecycle: development
